@@ -5,7 +5,6 @@
 [![License](https://img.shields.io/github/license/giellalt/lang-mpu)](https://github.com/giellalt/lang-mpu/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mpu)](https://github.com/giellalt/lang-mpu/issues)
 [![Build Status](https://builds.giellalt.org/api/badge/lang-mpu?label=CI)](https://builds.giellalt.org/pipelines/lang-mpu/builds/latest)
-[![Glottolog](https://img.shields.io/badge/Glottolog-green)](https://glottolog.org/resource/languoid/id/__GLOTTOLOG_ID__)
 
 This page documents the work on the **Makuráp language model**. 
 
