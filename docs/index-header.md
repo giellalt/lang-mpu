@@ -4,7 +4,7 @@
 ![Lemma count](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgiellalt%2Flang-mpu%2Fgh-pages%2Flemmacount.json)
 [![License](https://img.shields.io/github/license/giellalt/lang-mpu)](https://github.com/giellalt/lang-mpu/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/giellalt/lang-mpu)](https://github.com/giellalt/lang-mpu/issues)
-[![Build Status](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mpu/main/badge.svg)](https://divvun-tc.giellalt.org/api/github/v1/repository/giellalt/lang-mpu/main/latest)
+[![Build Status](https://builds.giellalt.org/api/badge/lang-mpu?label=CI)](https://builds.giellalt.org/pipelines/lang-mpu/builds/latest)
 
 This page documents the work on the **Makuráp language model**. 
 
